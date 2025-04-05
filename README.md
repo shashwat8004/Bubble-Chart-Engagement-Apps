@@ -1,6 +1,6 @@
 # 📱 Time-Sensitive Bubble Chart Analysis of High-Engagement Apps
 
-This project generates an **interactive bubble chart** to visualize high-engagement apps from the Google Play Store, with the twist that the chart **only displays between 3 PM and 5 PM IST**.
+This project generates an **interactive bubble chart** to visualize high-engagement apps from the Google Play Store, with the twist that the chart **only displays between 5 PM and 7 PM IST**.
 
 ---
 
@@ -86,7 +86,7 @@ pip install pandas numpy plotly pytz datetime
 python bubble_chart_analysis.py
 ```
 
-✅ Run it between **3 PM and 5 PM IST** to see the interactive chart.
+✅ Run it between **5 PM and 7 PM IST** to see the interactive chart.
 
 ---
 
