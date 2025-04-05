@@ -40,7 +40,7 @@ df["Reviews"] = pd.to_numeric(df["Reviews"], errors="coerce")  # Convert safely
 # Drop rows with NaN in essential columns
 df = df.dropna(subset=["Size_MB", "Rating", "Installs", "Reviews"])
 
-# Function to check if current time is between 3 PM and 5 PM IST
+# Function to check if current time is between 5 PM and 7 PM IST
 def is_time_window():
     ist = pytz.timezone("Asia/Kolkata")
     current_time = datetime.now(ist)
