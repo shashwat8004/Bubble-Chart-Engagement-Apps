@@ -31,7 +31,7 @@ Apps must meet **all** the following:
 
 ## 🕒 Time Lock Feature
 
-The bubble chart will **only render between 3 PM and 5 PM IST**. Outside this window, a message will be shown instead.
+The bubble chart will **only render between 5 PM and 7 PM IST**. Outside this window, a message will be shown instead.
 
 ---
 
